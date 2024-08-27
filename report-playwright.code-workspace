@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "./a"
+		},
+		{
+			"path": "./b"
+		},
+		{
+			"path": ".",
+			"name": "root"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-playwright.playwright"
+		]
+	}
+}
